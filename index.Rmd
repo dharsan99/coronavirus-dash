@@ -1,5 +1,5 @@
 ---
-title: "Coronavirus"
+title: "Coronavirus-live updates dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
